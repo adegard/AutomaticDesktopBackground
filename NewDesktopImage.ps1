@@ -33,7 +33,6 @@ $filename = "C:\bg.jpg"
 Invoke-WebRequest $wallUrl -OutFile $filename
 
 # load the Set-Wallpaper module so we can execute it
-# . $PSScriptRoot/Set-Wallpaper.ps1
 
 # https://www.joseespitia.com/2017/09/15/set-wallpaper-powershell-function/
 Function Set-WallPaper {
@@ -112,9 +111,8 @@ public class Params
     $ret = [Params]::SystemParametersInfo($SPI_SETDESKWALLPAPER, 0, $Image, $fWinIni)
 }
  
- Set-Wallpaper -Image $filename  -Style Fit
+ Set-Wallpaper -Image $filename  -Style Fill
 
 # To debug any issues, uncomment the following line:
 # pause
 
-# Set-WallPaper -Image "C:\Wallpaper\Background.jpg" -Style Fit
