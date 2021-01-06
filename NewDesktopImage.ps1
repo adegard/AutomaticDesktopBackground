@@ -26,7 +26,7 @@ $random = Get-Random -Minimum 0 -Maximum $count
 
 $wallUrl = $response.data[$random].path
 
-$filename = "C:\temp\bg.jpg"
+$filename = "C:\bg.jpg"
 
 "Downloading $filename"
 
