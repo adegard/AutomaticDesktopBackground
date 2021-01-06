@@ -13,7 +13,7 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercon
 
 # Create a shortcut to change Wallpaper manually
 
-Save this <a href="https://raw.githubusercontent.com/adegard/AutomaticDesktopBackground/main/changeWallpaper.ps1" target="_blank">file</a>, then right click, run with Powershell.
+Save this <a href="https://github.com/adegard/AutomaticDesktopBackground/raw/master/changeWallpaper.ps1" target="_blank">file</a>, then right click, run with Powershell.
 
 
 <div style='page-break-after: always'></div>
