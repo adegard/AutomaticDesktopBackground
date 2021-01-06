@@ -1,6 +1,6 @@
 # Automatic Desktop Background (Powershell)
 Desktop Automatic new background image (Powershell) 
-
+![](https://github.com/adegard/automaticdesktopbackground/blob/main/sfondo.png?raw=true)
 ## PowerShell Script
 ```
 iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/adegard/AutomaticDesktopBackground/main/NewDesktopImage.ps1'))
