@@ -18,3 +18,7 @@ Save this <a href="https://raw.githubusercontent.com/adegard/AutomaticDesktopBac
 
 <div style='page-break-after: always'></div>
 
+# Thanks to 
+* <a href="https://www.joseespitia.com/2017/09/15/set-wallpaper-powershell-function/" target="_blank">https://www.joseespitia.com/2017/09/15/set-wallpaper-powershell-function/</a>
+
+* <a href="https://dev.to/stebaker92/randomizing-your-windows-desktop-background-using-powershell-8l5" target="_blank">https://dev.to/stebaker92/randomizing-your-windows-desktop-background-using-powershell-8l5</a>
