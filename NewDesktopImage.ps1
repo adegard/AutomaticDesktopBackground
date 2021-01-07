@@ -2,7 +2,7 @@
 # Modified by adegard, 2021
 # Specify a search term or leave it blank:
 # $keyword=$null
-$keyword="landscape"
+$keyword="nature"
 
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
