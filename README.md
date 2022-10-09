@@ -1,4 +1,4 @@
-# Automatic Desktop Background (Powershell)
+# Automatic Desktop Background Wallpaper (Powershell)
 Desktop Automatic new background image (Powershell) 
 ![](https://github.com/adegard/automaticdesktopbackground/blob/main/2021-01-13shot.png?raw=true)
 ## Nature landscapes wallpaper, using following PowerShell Script:
